@@ -60,8 +60,5 @@ This repository contains a fully coded personal portfolio website built with **H
 - The profile image path is `me.jpeg` – ensure the image exists in the same folder.
 - Smooth scrolling is enabled via `scroll-behavior: smooth`.
 
-##  Contact
 
-For any questions or suggestions, feel free to reach out via email or LinkedIn provided in the portfolio.
 
----
